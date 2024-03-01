@@ -6,13 +6,3 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
-pinecone-client
-unstructured
-tiktoken
-pandas
-numpy
-llama-index-core
-llama-index-llms-replicate
-llama-index-readers-file
-pypdf
-llama-index
